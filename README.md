@@ -32,3 +32,9 @@ The Real-time Equity and Balance Monitoring Dashboard is a web application built
 ### Conclusion:
 
 The Real-time Equity and Balance Monitoring Dashboard provides a simple and intuitive way to monitor the equity and balance for 3 trading accounts in real-time. With the use of modern web technologies and the potential for future enhancements, the application can be a valuable tool for traders seeking to monitor their accounts' performance.
+
+### Redirects
+
+To view the Python Server End -https://github.com/Theresa-o/equity-dashboard-server-python
+
+To view the React Client End - https://github.com/Theresa-o/equity-dashboard-client
